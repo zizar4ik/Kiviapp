@@ -5,7 +5,8 @@ title = Maxx
 
 # (str) Package name
 package.name = myaps
-
+android.sdk = 30
+android.ndk = 21e
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.bogdan
 
